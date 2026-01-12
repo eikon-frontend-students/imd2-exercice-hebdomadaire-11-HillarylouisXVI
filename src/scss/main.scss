@@ -42,6 +42,7 @@ h2 {
 .button-like:hover {
   background-color: #f00;
   color: #fff;
+  transition: background-color 1s ease;
 }
 .button-like:hover i,
 .button-like:hover h2 {
